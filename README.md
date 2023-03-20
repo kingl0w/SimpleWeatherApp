@@ -1,2 +1,2 @@
 # SimpleWeatherApp
-A simple weather app using vanilla JS and bootstrap
+A simple weather app using vanilla JS and CSS
